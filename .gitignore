@@ -1,0 +1,14 @@
+# Python
+*.egg-info
+*.egg
+*.pyc
+.cache
+build
+dist
+
+# Translations
+*.mo
+
+# Others
+.ropeproject
+
